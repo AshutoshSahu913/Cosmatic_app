@@ -1,0 +1,11 @@
+<resources >
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EcommercecosmaticSellingApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/appColor</item>
+        <item name="colorSecondary">@color/appColor</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+
+    <style name="Theme.EcommercecosmaticSellingApp" parent="Base.Theme.EcommercecosmaticSellingApp" />
+</resources>
